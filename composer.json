@@ -1,0 +1,10 @@
+{
+	"name": "jwieder/php-samples",
+	"description": " PHP samples for G Suite products.",
+	"type": "library",
+	"homepage": "https://github.com/gsuitedevs/php-samples",
+	"license": "Apache-2.0",
+	"require": {
+		"php": ">=7.0.0" 
+	}
+}
